@@ -1,8 +1,11 @@
 Contiki Examples
+Contiki 范例  
 ================
 
 The examples/ directory contains a few examples that will help you get
 started with Contiki.
+
+examples/ 文件夹中包含了一些帮助你学习 Contiki 的例子。
 
 To run the example programs, you need either to be running Linux or FreeBSD (or
 any other UNIX-type system), or install Cygwin if you are running Microsoft
@@ -11,6 +14,11 @@ have the gcc C compiler installed. To run the examples in the 'netsim' target,
 you need to have GTK 1.x development libraries installed. These are usually
 called 'gtk-devel', 'libgtk1-devel' or similar in your Linux software
 installation programs.
+
+为了运行这些程序，你需要在 Linux 、 FreeBSD 或其他任何UNIX类型系统)。 如果你想要在 Windoes 
+上运行本系统，那么你需要安装 Cygwin [http://cygwin.com](http://cygwin.com)。你最起码
+需要安装 gcc 这一C语言编译器。为了运行这些样例于 netsim  模拟器中，你需要安装 GTK 1.x 的开发库。
+这些在你的 Linux 软件安装程序中常被叫做 'gtk-devel', 'libgtk1-devel' 或其他类似的名字。
 
 compile-platforms/
 ------------------

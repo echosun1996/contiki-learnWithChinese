@@ -3,9 +3,14 @@ everyone the right to use and distribute the code, either in binary or
 source code format, as long as the copyright license is retained in
 the source code.
 
+Contiki遵循3-clause BSD许可证。只要将本版权许可保留在源代码中，那么无论是二进制格式
+还是源代码格式，每个人都可以在这份许可的权利范围内使用和分发这些代码。
+
 The copyright for different parts of the code is held by different
 people and organizations, but the code is licensed under the same type
 of license. The license text is:
+
+
 
  * Copyright (c) (Year), (Name of copyright holder)
  * All rights reserved.
